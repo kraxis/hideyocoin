@@ -1,4 +1,4 @@
 obj/version.o: version.cpp version.h clientversion.h \
- /home/hal/Code/cryptocurrencies/hideyocoin/hideyocoin/src/obj/build.h
+ /home/hal/Code/cryptocurrencies/altcoins/hideyocoin/src/obj/build.h
 version.cpp version.h clientversion.h :
- /home/hal/Code/cryptocurrencies/hideyocoin/hideyocoin/src/obj/build.h :
+ /home/hal/Code/cryptocurrencies/altcoins/hideyocoin/src/obj/build.h :
